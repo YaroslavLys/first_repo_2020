@@ -15,5 +15,6 @@ int main() {
     int n;
     scanf("%d", &n);
     printf("%d", func(n));
+    cout << "hello";
     return 0;
 }
